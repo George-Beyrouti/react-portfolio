@@ -17,7 +17,7 @@ const Home = () => {
           <h2 className='text-4xl sm:text-7xl font-bold text-white'>I'm a MERN Full-Stack WEB-Developer</h2>
           <p className='text-gray-500 py-4 max-w-md
           '>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore minima provident quas illum, temporibus eaque alias atque, placeat rerum exercitationem, pariatur voluptas illo ratione quisquam.
+            Hello, currently i am an enrolled student in the MERN Full-Stack Web Development Course at the Digital Career Institute with Masters studies in Marketing Management & Research. looking for a new challenging position as a Junior Developer starting July 2023.
           </p>
 
           <div> 
