@@ -64,55 +64,8 @@ const Portfolio = () => {
       src: weather,
       git: "https://github.com/George-Beyrouti/React-WeatherAPP-Project",
       demo: "https://react-weather-app-project-one.vercel.app/",
-    },
-            {
-      id: 7,
-      name: "Portfolio7",
-      desc: "Portfolio1 desc",
-      src: tinderDog,
-      git: "https://github.com/",
-      demo: "https://google.com",
-    },
-        {
-      id: 8,
-      name: "Portfolio8",
-      desc: "Portfolio1 desc",
-      src: tinderDog,
-      git: "https://github.com/",
-      demo: "https://google.com",
-    },
-        {
-      id: 9,
-      name: "Portfolio9",
-      desc: "Portfolio1 desc",
-      src: tinderDog,
-      git: "https://github.com/",
-      demo: "https://google.com",
-    },
-            {
-      id: 10,
-      name: "Portfolio10",
-      desc: "Portfolio1 desc",
-      src: tinderDog,
-      git: "https://github.com/",
-      demo: "https://google.com",
-    },
-        {
-      id: 11,
-      name: "Portfolio11",
-      desc: "Portfolio1 desc",
-      src: tinderDog,
-      git: "https://github.com/",
-      demo: "https://google.com",
-    },
-        {
-      id: 12,
-      name: "Portfolio12",
-      desc: "Portfolio1 desc",
-      src: tinderDog,
-      git: "https://github.com/",
-      demo: "https://google.com",
-    },
+    }
+        
     
   ]
 
