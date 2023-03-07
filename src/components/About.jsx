@@ -6,7 +6,7 @@ const About = () => {
 
       <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
         <div className='pb-6'>
-          <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
+          <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About Me</p>
         </div>
         <p className='text-xl mt-20'>I am  Business administration Bachelor graduate, with a Master studies in Marketing Management & Research, Currently Learning Full-Stack Web-Development (MERN) at the Digital Career Institute, Living in Germany
 

@@ -67,7 +67,7 @@ const Footer = () => {
   ];
 
   return (   
-      <div className='  max-w-screen-full w-full bg-gray-800 text-white lg:static  px-3 fixed bottom-0 py-1 '>
+      <div className='  max-w-screen-full w-full bg-gray-800 text-white lg:static  px-2 sticky bottom-0  pt-2 '>
         <div className='max-w-screen flex flex-row py-1 mx-auto justify-around items-center'>
             <div>
               <div className=" lg:text-lg md:text-md sm:text-sm text-xs">Designed by George Beyrouti.</div>
@@ -76,13 +76,13 @@ const Footer = () => {
 
             <div className='text-center text-xl text-white mb-2 max-w-2xl flex justify-center items-center flex-wrap max-h-sm '>
               {links.map( ({id, child, href, download})=>(
-                        <div key={id} className="  text-sm p-2  
-                        rounded-full bg-gray-500 mx-1 my-1  inline-flex
-
-                        md:mx-2 sm:mx-1
+                        <div key={id} className=" inline-flex
+                        rounded-full bg-gray-500 text-sm
+                        p-1 md:p-1.5 xl:p-2 
+                        mx-1 my-1 md:mx-2
                         max-hover:first::mx-1 
-                        
-                        max-lg:hover:scale-125  lg:mx-3 max-md:hover:scale-110    max-sm:hover:scale-105  
+                        max-lg:hover:scale-125  lg:mx-3 max-md:hover:scale-110 
+                        max-sm:hover:scale-105  
 
                         hover:scale-105 
                         max-xl-:hover:first:scale-100 max-lg:hover:first:scale-100

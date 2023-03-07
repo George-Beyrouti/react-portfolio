@@ -40,11 +40,11 @@ const Contact = () => {
 
             <input type="email" name="email" placeholder='Please Enter your E-mail here' required className='p-2 my-4 bg-transparent border-2 rounded-md text-white focus:outline-none' />
 
-            <textarea name="message"  rows="10" placeholder="Please enter your message here" required className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none'"></textarea>
+            <textarea name="message"  rows="8" placeholder="Please enter your message here" required className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none'"></textarea>
 
             <button type='submit' className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300'>Let's talk</button>
 
-            <h4 className='p-3 my-3 bg-transparent border-2 rounded-md text-white' placeholder='message confirmation' >message confirmation status: {confirmation}</h4>
+            <h4 className='p-3 my-4 bg-transparent border-2 rounded-md text-white' placeholder='message confirmation' >message confirmation status: {confirmation}</h4>
           </form>
         </div>
       </div>
