@@ -20,14 +20,15 @@ const Home = () => {
             Hello, currently i am an enrolled student in the MERN Full-Stack Web Development Course at the Digital Career Institute with Masters studies in Marketing Management & Research. looking for a new challenging position as a Junior Developer starting July 2023.
           </p>
 
-          <div> 
-            <Link to="portfolio" smooth duration={500}  className='group text-white w-fit px-6 py-3 my-2 flex item-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>
+          
+            <Link to="portfolio" smooth duration={500} >
+              <div className='group text-white w-fit px-6 py-3 my-2 flex item-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>
               Portfolio 
               <span className='group-hover:rotate-90 duration-300'>
                 <HiArrowRight size={20} className="ml-2 " />
               </span>
-            </Link>
           </div>
+            </Link>
         </div>
         <div>
           <img src={profileImage} alt="my profile" className='rounded-2xl mx-auto w-1/2 md:w-full
