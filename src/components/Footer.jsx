@@ -1,7 +1,6 @@
 import React from 'react'
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
-import {BsFillPersonLinesFill} from 'react-icons/bs';
 import {AiFillPhone} from 'react-icons/ai';
 import {SiGooglemaps} from 'react-icons/si'
 
@@ -13,7 +12,7 @@ const Footer = () => {
       child: (
         // put the resume in the public folder
             <>
-            <span className='mx-1 md:text-md sm:text-sm text-xs group-hover:before:content-["Download"] lg:before:content-["Download"]  md:p-0'> CV</span><BsFillPersonLinesFill size={20}/>
+            <span className='mx-1 md:text-md sm:text-sm text-xs group-hover:before:content-["Download"] lg:before:content-["Download"]  md:p-0'> CV</span>
             </>
       ),
       href: "/George Beyrouti Lebenslauf.pdf",
@@ -71,7 +70,7 @@ const Footer = () => {
         <div className='max-w-screen flex flex-row py-1 mx-auto justify-around items-center'>
             <div>
               <div className=" lg:text-lg md:text-md sm:text-sm text-xs">Designed by George Beyrouti.</div>
-              <div className=" lg:text-lg md:text-md sm:text-sm text-xs my-1">Using React & TailwindCSS.</div> 
+              <div className=" lg:text-lg md:text-md sm:text-sm text-xs my-1">Using React & Tailwind</div> 
             </div>
 
             <div className='text-center text-xl text-white mb-2 max-w-2xl flex justify-center items-center flex-wrap max-h-sm '>
