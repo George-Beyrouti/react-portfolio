@@ -15,11 +15,11 @@ const About = () => {
 
         <br />
 
-        <p className='txt-xl'>Throughout my education, I have gained experience in developing full-stack applications, creating RESTful APIs, and integrating third-party APIs. I have also honed my skills in Git, Agile methodologies, and collaborative teamwork, which are essential in the fast-paced world of web development.
+        <p className='text-xl'>Throughout my education, I have gained experience in developing full-stack applications, creating RESTful APIs, and integrating third-party APIs. I have also honed my skills in Git, Agile methodologies, and collaborative teamwork, which are essential in the fast-paced world of web development.
 
         with strong analytical and interpersonal skills, professionally proficient in 3 languages, German, English and Arabic.
 
-          I am looking for an Junior Web-developer / Webentwickler  job in the MERN Stack , or related areas.
+          I am looking for an Junior Web-developer / Webentwickler  job in the MERN Stack.
         </p>
 
       </div>
