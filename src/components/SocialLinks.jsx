@@ -63,7 +63,7 @@ const SocialLinks = () => {
             CV <BsFillPersonLinesFill size={30}/>
             </>
       ),
-      href: "George's Resume.pdf",
+      href: "George Beyrouti Lebenslauf.pdf",
       style: "rounded-br-md",
       download: true,
     },
