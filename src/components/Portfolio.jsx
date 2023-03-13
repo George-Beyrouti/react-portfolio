@@ -20,7 +20,7 @@ const Portfolio = () => {
     {
       id: 1,
       name: "Benny's Burger",
-      desc: "Restaurant UI Design using HTML & SCSS",
+      desc: "Restaurant UI Design using HTML & SCSS.",
       src: bennys,
       git: "https://github.com/George-Beyrouti/uib_framework_bootstrap_benny-s-burgers-George-Beyrouti",
       demo: "https://uib-framework-bootstrap-benny-s-burgers-george-beyrouti.vercel.app/",
@@ -28,7 +28,7 @@ const Portfolio = () => {
         {
       id: 2,
       name: "Dog Tinder",
-      desc: " Social Network for Dog enthusiasts UI Design using HTML & Bootstrap",
+      desc: " Social Network for Dog enthusiasts UI Design using HTML & Bootstrap.",
       src: tinderDog,
       git: "https://github.com/George-Beyrouti/UI-Project",
       demo: "https://george-beyrouti.github.io/UI-Project/",
@@ -36,7 +36,7 @@ const Portfolio = () => {
         {
       id: 3,
       name: "The Sweet Spot",
-      desc: "Sweet Shop UI Design using HTML & CSS",
+      desc: "Sweet Shop UI Design using HTML & CSS.",
       src: sweet,
       git: "https://github.com/George-Beyrouti/uib-ui-ux-the-sweet-spot-v4-George-Beyrouti",
       demo: "https://uib-ui-ux-the-sweet-spot-v4-george-beyrouti.vercel.app/",
@@ -44,15 +44,15 @@ const Portfolio = () => {
         {
       id: 4,
       name: " my old Portfolio Project",
-      desc: "Responsive Portfolio using HTML & CSS only",
+      desc: "Responsive Portfolio using HTML & CSS only.",
       src: portfolio,
       git: "https://github.com/George-Beyrouti/Portfolio",
       demo: "https://george-beyrouti.github.io/Portfolio/",
     },
       {
       id: 5,
-      name: "vanilla JavaScript Spotify clone",
-      desc: "search function with Deezer-API and user Authentication with Firebase",
+      name: "Vanilla JavaScript Desktop Spotify clone",
+      desc: "search function with Deezer-API and user Authentication with Firebase.",
       src: Spotify,
       git: "https://github.com/George-Beyrouti/Spotify-clone-using-vanilla-JS-with-Deezer-API",
       demo: "https://george-beyrouti.github.io/Spotify-clone-using-vanilla-JS-with-Deezer-API/",
@@ -60,7 +60,7 @@ const Portfolio = () => {
       {
       id: 6,
       name: "React Weather app",
-      desc: "using React-icons & custom CSS",
+      desc: "using React-icons & custom CSS.",
       src: weather,
       git: "https://github.com/George-Beyrouti/React-WeatherAPP-Project",
       demo: "https://react-weather-app-project-one.vercel.app/",
@@ -68,7 +68,7 @@ const Portfolio = () => {
           {
       id: 6,
       name: "Generic Shopping Cart ",
-      desc: "using Typescript ,React & React-Bootstrap ",
+      desc: "using Typescript ,React & React-Bootstrap.",
       src: weather,
       git: "https://github.com/George-Beyrouti/React-Type-Script-Shopping-Cart",
       demo: "https://react-type-script-shopping-cart-george-beyrouti.vercel.app/",
