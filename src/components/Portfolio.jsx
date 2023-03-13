@@ -4,6 +4,8 @@ import bennys from "../assets/portfolio/bennys.png"
 import sweet from "../assets/portfolio/sweet.png"
 import portfolio from "../assets/portfolio/old-Portfolio.png"
 import Spotify from "../assets/portfolio/spotify.png"
+import Cart from "../assets/portfolio/Cart.png"
+
 
 import weather from "../assets/portfolio/weather.png"
 
@@ -51,7 +53,7 @@ const Portfolio = () => {
     },
       {
       id: 5,
-      name: "Vanilla JavaScript Desktop Spotify clone",
+      name: "Desktop Spotify clone",
       desc: "search function with Deezer-API and user Authentication with Firebase.",
       src: Spotify,
       git: "https://github.com/George-Beyrouti/Spotify-clone-using-vanilla-JS-with-Deezer-API",
@@ -66,10 +68,10 @@ const Portfolio = () => {
       demo: "https://react-weather-app-project-one.vercel.app/",
     },
           {
-      id: 6,
+      id: 7,
       name: "A Generic Shopping Cart",
       desc: "using Typescript ,React & React-Bootstrap.",
-      src: weather,
+      src: Cart,
       git: "https://github.com/George-Beyrouti/React-Type-Script-Shopping-Cart",
       demo: "https://react-type-script-shopping-cart-george-beyrouti.vercel.app/",
     }
@@ -79,7 +81,7 @@ const Portfolio = () => {
 
 
   return ( // the md:h-full in the main div is originally an md:h-screen
-    <div name="portfolio" className='bg-gradient-to-b from-black to-gray-800 w-full h-full text-white md:h-full py-4' >
+    <div name="portfolio" className='bg-gradient-to-b from-black to-gray-800 w-full h-full text-white md:h-full py-10' >
 
       <div className='max-w-screen-lg p-5 mx-auto flex flex-col justify-center w-full h-full py-6'>
 
