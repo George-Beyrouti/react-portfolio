@@ -64,6 +64,14 @@ const Portfolio = () => {
       src: weather,
       git: "https://github.com/George-Beyrouti/React-WeatherAPP-Project",
       demo: "https://react-weather-app-project-one.vercel.app/",
+    },
+          {
+      id: 6,
+      name: "Generic Shopping Cart ",
+      desc: "using Typescript ,React & React-Bootstrap ",
+      src: weather,
+      git: "https://github.com/George-Beyrouti/React-Type-Script-Shopping-Cart",
+      demo: "https://react-type-script-shopping-cart-george-beyrouti.vercel.app/",
     }
         
     
