@@ -67,7 +67,7 @@ const Portfolio = () => {
     },
           {
       id: 6,
-      name: "Generic Shopping Cart ",
+      name: "A Generic Shopping Cart",
       desc: "using Typescript ,React & React-Bootstrap.",
       src: weather,
       git: "https://github.com/George-Beyrouti/React-Type-Script-Shopping-Cart",
