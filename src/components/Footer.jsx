@@ -15,7 +15,7 @@ const Footer = () => {
             <span className='mx-1 md:text-md sm:text-sm text-xs group-hover:before:content-["Download"] lg:before:content-["Download"]  md:p-0'> CV</span>
             </>
       ),
-      href: "/George Beyrouti Lebenslauf.pdf",
+      href: "CV George Beyrouti Deutsch.pdf",
       download: true,
     },
     {
