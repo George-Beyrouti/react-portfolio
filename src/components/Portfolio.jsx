@@ -8,6 +8,8 @@ import Cart from "../assets/portfolio/Cart.png"
 
 
 import weather from "../assets/portfolio/weather.png"
+import SemiColons from "../assets/portfolio/Semicolons-Blog.png"
+
 
 import {BsBoxArrowUpRight} from "react-icons/bs"
 import { FaGithub } from 'react-icons/fa';
@@ -74,7 +76,15 @@ const Portfolio = () => {
       src: Cart,
       git: "https://github.com/George-Beyrouti/React-Type-Script-Shopping-Cart",
       demo: "https://react-type-script-shopping-cart-george-beyrouti.vercel.app/",
-    }
+    },
+          {
+      id: 7,
+      name: "Semicolons Blog / Learning platform",
+      desc: "a Full-Stack Project. using MERN Technologies",
+      src: SemiColons,
+      git: "https://github.com/StenderKlaus/Semi-II",
+      demo: "https://semifrontend.vercel.app/",
+      }
         
     
   ]

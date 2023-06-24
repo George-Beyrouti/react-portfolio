@@ -8,14 +8,14 @@ const About = () => {
         <div className='pb-6'>
           <p className='text-4xl font-bold inline border-b-4 border-gray-500 '>About Me</p>
         </div>
-        <p className='text-xl mt-20'>I am  Business administration Bachelor graduate, with a Master studies in Marketing Management & Research, Currently Learning Full-Stack Web-Development (MERN) at the Digital Career Institute, Living in Germany
+        <p className='text-xl mt-20'>I am  Business administration Bachelor graduate, with a Master studies in Marketing Management & Research, With further Training as a Full-Stack Web-Developer (MERN) From the Digital Career Institute, Living in Germany
 
 
         </p>
 
         <br />
 
-        <p className='text-xl'>Throughout my education, I have gained experience in developing full-stack applications, creating RESTful APIs, and integrating third-party APIs. I have also honed my skills in Git, Agile methodologies, and collaborative teamwork, which are essential in the fast-paced world of web development.
+        <p className='text-xl'>Throughout my education, I have gained experience in developing full-stack applications, creating RESTful APIs, and integrating third-party APIs in my React Apps using ExpressJs., MongooDB, MySQL. I have also honed my skills in Git, Agile methodologies, and collaborative teamwork, which are essential in the fast-paced world of web development.
 
         with strong analytical and interpersonal skills, professionally proficient in 3 languages, German, English and Arabic.
 
